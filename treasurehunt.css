@@ -1,0 +1,30 @@
+h1, h2 {
+    color: #2c8285; 
+    text-align: center;
+    font-size: xx-large;
+}
+body {
+    background-color: #eddcb4;
+    text-align: center;
+    list-style-position: inside;
+    font-family: 'Pirata One', cursive;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-color: black;
+    /* border-style: dotted 100px; */
+    /* border-radius: 0cm; */
+}
+#first {
+     font-size: xxx-large;
+    }
+#third {
+    font-size: x-large;
+    /* font-stretch: ultra-expanded; */
+    /* word-spacing: %; */
+    letter-spacing: 20px;
+    text-decoration: underline;
+    
+}
